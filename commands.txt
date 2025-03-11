@@ -1,3 +1,6 @@
 git config --global user.name "username"
 git config --global user.email "useremail"
 git init - intialize 
+git status - list all untracked files
+git add -A - add all changes to staging area
+git commit -m  "commit text" - adding staging files to local repository
