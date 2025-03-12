@@ -8,3 +8,5 @@ git remote add luminar https://github.com/BilalYkv/gitbasicmlbatch.git
 git remote -v
 git branch - to check all branch 
 this line is added from student branch
+this line from remote repostitory
+this another changes from remote repository
