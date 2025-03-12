@@ -6,5 +6,8 @@ git add -A - add all changes to staging area
 git commit -m  "commit text" - adding staging files to local repository
 git remote add luminar https://github.com/BilalYkv/gitbasicmlbatch.git
 git remote -v
-git branch - to check all branch 
+git branch - to check all branch
+git branch branch_name - to create a new branch
+git checkout branch_name -to change to a new branch
+git merge branch_name - to merge two branches 
 this line is added from student branch
